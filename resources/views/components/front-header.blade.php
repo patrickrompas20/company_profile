@@ -36,7 +36,7 @@
     <div class="container">
         <nav class="navbar navbar-dark navbar-expand-lg py-0">
             <a href="index.html" class="navbar-brand">
-                <h1 class="text-white fw-bold d-block">P<span class="text-secondary">T</span> </h1>
+                <h3 class="text-white fw-bold d-block">Company<span class="text-secondary">Profile</span> </h3>
             </a>
             <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
                 data-bs-target="#navbarCollapse">
